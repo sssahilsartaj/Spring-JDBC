@@ -1,0 +1,1 @@
+Copy-paste all the java files along with pom.xml file for dependencies
