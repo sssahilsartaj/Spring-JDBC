@@ -1,0 +1,1 @@
+Just import this to maven file in your Eclipse IDE
