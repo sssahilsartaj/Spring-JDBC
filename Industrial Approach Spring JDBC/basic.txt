@@ -1,1 +1,3 @@
 Copy-paste all the java files along with pom.xml file for dependencies
+
+This code is of inserting values to the database using spring jdbc.
